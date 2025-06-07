@@ -1,1 +1,15 @@
-Nmap, Nikto, Hydra
+
+nano tools-list.txt
+
+
+
+Nmap
+Hydra
+Nikto
+Burp Suite
+John the Ripper
+Sqlmap
+Wireshark
+Metasploit
+Gobuster
+Dirbuster
